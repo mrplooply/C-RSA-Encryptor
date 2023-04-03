@@ -1,4 +1,4 @@
-# Assignment 7 - A (Huffman Coding) Tree Grows in Santa Cruz
+# C Huffman Encoding
 
 ## Introduction
 
@@ -66,6 +66,4 @@ Enable verbose, in order to print statistics including the orginal file size and
 
 ## Contributing
 
-code.c decode.c encode.c huffman.c io.c MakeFile node.c pq.c stack.c  - Nicholas Barsi-Rhyne 11/06/2022
-
-code.h defines.h header.h huffman.h io.h node.h pq.h stack.h - Prof. Ethan L. Miller, CSE 13S – Fall 2022
+code.c decode.c encode.c huffman.c io.c MakeFile node.c pq.c stack.c code.h defines.h header.h huffman.h io.h node.h pq.h stack.h  - Nicholas Barsi-Rhyne 11/06/2022
